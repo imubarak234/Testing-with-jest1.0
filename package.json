@@ -1,0 +1,23 @@
+{
+  "name": "testing-with-jest1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imubarak234/Testing-with-jest1.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imubarak234/Testing-with-jest1.0/issues"
+  },
+  "homepage": "https://github.com/imubarak234/Testing-with-jest1.0#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
